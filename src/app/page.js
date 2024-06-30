@@ -215,7 +215,7 @@ const ModelComponent = () => {
 
       <div className="project-github">
         <p>This project is in</p>
-        <Link href="https://github.com/diegoperea20">
+        <Link href="https://github.com/diegoperea20/Minimum-Temperature-Melbourne">
           <img width="96" height="96" src="https://img.icons8.com/fluency/96/github.png" alt="github"/>
         </Link>
       </div>
