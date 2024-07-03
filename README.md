@@ -2,7 +2,7 @@
 
 Nextjs Minimum Temperature Predictions since 1991 in Melbourne with dataset [Daily Minimum Temperatures in Melbourne](https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv) 
 
-Model used from [Modelos-de-Pronostico-de-Temperatura-Minima-en-Melbourne](https://github.com/diegoperea20/Modelos-de-Pronostico-de-Temperatura-Minima-en-Melbourne/tree/main/modeloMLP) for his size 
+Model used from [Modelos-de-Pronostico-de-Temperatura-Minima-en-Melbourne](https://github.com/diegoperea20/Modelos-de-Pronostico-de-Temperatura-Minima-en-Melbourne/tree/main/modeloMLP) for his size , but the code for the LSTM model was also added.
 
 In "End date" , Select the date you want to predict the temperature and the red graph will predict it
 <p align="center">
